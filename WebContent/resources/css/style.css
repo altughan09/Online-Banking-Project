@@ -1,0 +1,52 @@
+ body{
+	font-family: 'Inconsolata', monospace;
+ 	font-size: 18px;
+ 	background: #283c86;  /* fallback for old browsers */
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+ }
+h3 {
+	text-align: center;
+	padding: 10px 20px;
+
+}
+
+img{
+	display: block;
+	padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+ .form {
+ 	background:  #ebebe0;
+ 	margin: 30px auto;
+ 	padding: 10px 20px 40px 20px;
+ 	width: 500px;
+ 	border-radius: 20px;
+}
+
+.description {
+ 	background:  #ebebe0;
+ 	padding: 20px 20px 20px 20px;
+ 	width: 500px;
+ 	margin: auto;
+ 	border-radius: 25px;
+
+ 	
+}
+
+.btn {
+	float: right;
+}
+
+h5{
+	padding: 20px 20px 20px 0;
+}
+
+.counter {
+  
+  font-size:50px;
+  vertical-align: middle;
+}
